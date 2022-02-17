@@ -12,4 +12,4 @@ useCounter(?);
 
 - El hook recibe un valor por defecto
 
-[return](react-custom-hooks)
+[return](https://github.com/abelstor/react-custom-hooks)
