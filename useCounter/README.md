@@ -11,3 +11,5 @@ useCounter(?);
 ```
 
 - El hook recibe un valor por defecto
+
+[return](react-custom-hooks)
